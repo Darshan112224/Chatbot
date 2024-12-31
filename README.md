@@ -9,13 +9,13 @@ This is a simple chatbot built using Hugging Face Transformers and PyTorch.
 ## Requirements
 - Jupyter notebook
 - python 3.11 or >=3.11
--Dependancie
-  -torch
-  -transformers
+- Dependancie
+  - torch
+  - transformers
 
 
 
-##Example
+## Example
 -You: How to make money?
 Chatbot: There are many ways to make money, such as starting a business, freelancing, or investing in stocks.
 
